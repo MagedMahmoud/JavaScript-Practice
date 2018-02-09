@@ -1,0 +1,81 @@
+
+h1 {
+	font-size:400%;text-align:center;
+	color: black;
+	font-family: Verdana, Sans-serif;
+}
+body {
+	background-color: #7575a3;
+}
+pre {
+	text-align:center
+}
+p {
+	font-family: Arial, Sans-serif;
+}
+ul.Nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+li.Nav a.Nav {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li.Nav a.Nav:hover {
+    background-color: #111;
+}
+
+#Aboutme {
+	 list-style-type: disc;
+}
+#info {
+	 color:white;
+}
+#birth {
+	color:white;
+
+}
+
+div {
+    display:block;  
+    top-margin:200px;
+    margin-right:100px;
+    margin-left:100px;
+}
+
+#Gallery {
+    float:left;
+    padding:10px;
+    width: 35%;
+}
+
+#Me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#foot:link {
+    color: white;
+    text-decoration: none;
+}
+#foot:hover {
+    color: gold;
+    text-decoration: underline;
+}
+
+footer {
+	display: block;
+	float:left;
+}
